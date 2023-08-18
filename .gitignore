@@ -1,0 +1,8 @@
+# Project exclude paths
+/api-download/target/
+/client-download/target/
+/service-download/target/
+# Project exclude paths
+/api-dd-registry/target/
+/client-dd-registry/target/
+/service-dd-registry/target/
